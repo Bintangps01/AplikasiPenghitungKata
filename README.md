@@ -4,7 +4,7 @@
 Sebuah aplikasi yang dapat digunakan untuk menghitung karakter,kata,kalimat, dan paragraf dari sebuah teks, yang ditujukan untuk menyelesaikan Tugas PBO ke-5.
 
 #### Source Code PenghitungKataFrame.java
-```
+```java
 
 import java.awt.event.ActionEvent;
 import java.io.BufferedReader;
@@ -426,6 +426,10 @@ public class PenghitungKataFrame extends javax.swing.JFrame {
 ## Fitur Tambahan (Variasi)
 - Menghitung jumlah kalimat dan paragraf
 - opsi export dan import hasil
+
+## Screenshot
+![{B8C8E211-63FB-4261-B880-BE5631AE5CDC}](https://github.com/user-attachments/assets/6acfc38b-47c7-4c15-946f-d3142380b241)
+
 ## Referensi
 
  - [Modul PBO2 Tugas 5](https://drive.google.com/file/d/1142tmuIMPH-T0PHFhoWhXhbNw6-9QVpc/view)
